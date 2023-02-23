@@ -2,7 +2,7 @@
 
 NLI task in Transformer models with MedNLI dataset
 
-read [report](./docs/report.pdf)
+[read](./docs/report.pdf?raw=True) report
 
 ## Dataset
 
